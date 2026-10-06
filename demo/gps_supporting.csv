@@ -1,0 +1,5 @@
+timestamp,latitude,longitude,location,description
+2026-08-31 18:10:00,12.9716,77.5946,City Central Mall,GPS ping at claimed location
+2026-08-31 18:35:00,12.9717,77.5947,City Central Mall,GPS ping at claimed location
+2026-08-31 19:05:00,12.9718,77.5948,City Central Mall,GPS ping at claimed location
+2026-08-31 20:30:00,12.9600,77.5800,Outside claimed location,GPS ping after the claimed alibi window
